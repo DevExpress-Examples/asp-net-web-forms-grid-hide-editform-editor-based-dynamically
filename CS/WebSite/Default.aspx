@@ -14,7 +14,7 @@
             <dx:GridViewDataTextColumn FieldName="CategoryName" />
             <dx:GridViewDataTextColumn FieldName="Description" />
         </Columns>
-    </xd:ASPxGridView>
+    </dx:ASPxGridView>
     <asp:AccessDataSource ID="ads" runat="server" DataFile="~/App_Data/nwind.mdb" SelectCommand="SELECT * FROM [Categories]">
     </asp:AccessDataSource>
 </asp:Content>
