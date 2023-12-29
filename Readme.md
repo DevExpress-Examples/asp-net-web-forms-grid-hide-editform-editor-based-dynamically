@@ -5,9 +5,6 @@
 <!-- default badges end -->
 
 # GridView for ASP.NET Web Forms - How to hide an edit form editor based on a column value
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/128540504/)**
-<!-- run online end -->
 
 This example demonstrates how to hide an editor from the edit form dynamically.
 
